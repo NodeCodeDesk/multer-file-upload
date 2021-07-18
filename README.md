@@ -3,7 +3,7 @@ Simple way to upload file with multer (Node Js)
 
 - Use express and multer
 - Create storage object
-- "destination" is used to provide the path where you want to stored uploaded file.
+- "destination" is used to provide the path where you want to be stored uploaded file.
 - "filename" for provides file name to uploaded file.
 -   If you not passed file name it will use random name without extension.
 -   
